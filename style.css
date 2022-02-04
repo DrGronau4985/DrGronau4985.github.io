@@ -2,6 +2,57 @@ body{
   background-color: #444444;
   color: white;
   font-family: Arial, Helvetic, sans-serif;
-  margin: 10% 20%
+  margin: 10% 20% 
+}
+
+.name{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+.phone-number{
+  text-align: center;
+  font-size: 24px;
+}
+
+.contact-info{
+  text-align: center;
+  font-size: 24px;
+}
+
+.profile{
+  font-size: 20px;
+}
+
+.objective{
+  font-size: 20px;
+}
+
+.skills-header{
+  font-size: 20px;
+  border-top: 1px solid #dddddd;
   
+}
+
+.skills-list{
+  font-size: 16px;;
+}
+
+.education-header{
+  font-size: 20px;
+  border-top: 1px solid #dddddd;
+}
+
+.education-list{
+  font-size: 16px;;
+}
+
+.work-header{
+  font-size: 20px;
+  border-top: 1px solid #dddddd;
+}
+
+.work-list{
+  font-size: 16px;
 }
