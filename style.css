@@ -2,7 +2,7 @@ body{
   background-color: #444444;
   color: white;
   font-family: Arial, Helvetic, sans-serif;
-  margin: 10% 20% 
+  margin: 10% 20% ;
 }
 
 .name{
@@ -31,28 +31,34 @@ body{
 
 .skills-header{
   font-size: 20px;
+  text-transform: uppercase;
   border-top: 1px solid #dddddd;
   
 }
 
 .skills-list{
-  font-size: 16px;;
+  font-size: 16px;
+  border-bottom: 1px solid #dddddd;
 }
 
 .education-header{
   font-size: 20px;
+  text-transform: uppercase;
   border-top: 1px solid #dddddd;
 }
 
 .education-list{
-  font-size: 16px;;
+  font-size: 16px;
+  border-bottom: 1px solid #dddddd;
 }
 
 .work-header{
   font-size: 20px;
+  text-transform: uppercase;
   border-top: 1px solid #dddddd;
 }
 
 .work-list{
   font-size: 16px;
+  border-bottom: 1px solid #dddddd;
 }
