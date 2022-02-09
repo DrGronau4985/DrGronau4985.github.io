@@ -1,24 +1,31 @@
 body{
-  background-color: #444444;
-  color: white;
-  font-family: Arial, Helvetic, sans-serif;
-  margin: 10% 20% ;
+  background-color: green;
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10% 20%;
 }
 
 .name{
+  color: blue;
   text-align: center;
   text-transform: uppercase;
   font-size: 30px;
 }
 
+img{
+  width: 200px;
+}
+
 .phone-number{
   text-align: center;
   font-size: 24px;
+  font-family: Lucida Console, Monaco, monospace;
 }
 
-.contact-info{
+.h2{
   text-align: center;
   font-size: 24px;
+  font-family: Times New Roman, Garamond, serif;
 }
 
 .profile{
@@ -31,6 +38,7 @@ body{
 
 .skills-header{
   font-size: 20px;
+  font-family: Brush Script MT, Lucida Handwriting, cursive;
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   
@@ -43,6 +51,7 @@ body{
 
 .education-header{
   font-size: 20px;
+  font-family: Brush Script MT, Lucida Handwriting, cursive;
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
 }
@@ -54,6 +63,7 @@ body{
 
 .work-header{
   font-size: 20px;
+  font-family: Brush Script MT, Lucida Handwriting, cursive;
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
 }
