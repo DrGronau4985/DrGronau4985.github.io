@@ -1,13 +1,13 @@
 body{
   background-color: green;
   color: red;
+  text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
 }
 
 .name{
   color: blue;
-  text-align: center;
   text-transform: uppercase;
   font-size: 30px;
 }
@@ -17,13 +17,11 @@ img{
 }
 
 .phone-number{
-  text-align: center;
   font-size: 24px;
   font-family: Lucida Console, Monaco, monospace;
 }
 
 .h2{
-  text-align: center;
   font-size: 24px;
   font-family: Times New Roman, Garamond, serif;
 }
